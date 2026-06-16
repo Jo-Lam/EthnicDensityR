@@ -1,0 +1,216 @@
+Variable_ID,Variable_Name,Table_ID,Table_Name,Unit
+uk001001,Residence type: Total,uk001,Residence type,Person
+uk001002,Residence type: Lives in a household,uk001,Residence type,Person
+uk001003,Residence type: Lives in a communal establishment,uk001,Residence type,Person
+uk002001,Marital and civil partnership status: Total,uk002,Marital and civil partnership status,Person
+uk002002,Marital and civil partnership status: Never married and never registered a civil partnership,uk002,Marital and civil partnership status,Person
+uk002003,Marital and civil partnership status: Married or in a registered civil partnership,uk002,Marital and civil partnership status,Person
+uk002004,"Marital and civil partnership status: Separated, but still legally married or still legally in a civil partnership",uk002,Marital and civil partnership status,Person
+uk002005,Marital and civil partnership status: Divorced or civil partnership dissolved,uk002,Marital and civil partnership status,Person
+uk002006,Marital and civil partnership status: Widowed or surviving civil partnership partner,uk002,Marital and civil partnership status,Person
+uk003001,Household composition: Total,uk003,Household composition,Household
+uk003002,Household composition: One person household,uk003,Household composition,Household
+uk003003,Household composition: One person household: Aged 66 years and over,uk003,Household composition,Household
+uk003004,Household composition: One person household: Other,uk003,Household composition,Household
+uk003005,Household composition: Single family household,uk003,Household composition,Household
+uk003006,Household composition:  Single family household: Couple family household,uk003,Household composition,Household
+uk003007,Household composition:  Single family household: Couple family household: No children,uk003,Household composition,Household
+uk003008,Household composition:  Single family household: Couple family household: Dependent children,uk003,Household composition,Household
+uk003009,Household composition:  Single family household: Couple family household: All children non-dependent,uk003,Household composition,Household
+uk003010,Household composition: Single family household: Lone parent family,uk003,Household composition,Household
+uk003011,Household composition: Single family household: Lone parent family: With dependent children,uk003,Household composition,Household
+uk003012,Household composition: Single family household: Lone parent family: All children non-dependent,uk003,Household composition,Household
+uk003013,Household composition: Single family household: Other single family household (including All aged 66 years and over),uk003,Household composition,Household
+uk003014,Household composition: Other household types,uk003,Household composition,Household
+uk004001,Country of birth: Total,uk004,Country of birth,Person
+uk004002,Country of birth: Europe,uk004,Country of birth,Person
+uk004003,Country of birth: Europe: United Kingdom,uk004,Country of birth,Person
+uk004004,Country of birth: Europe: EU countries,uk004,Country of birth,Person
+uk004005,Country of birth: Europe: Non-EU countries,uk004,Country of birth,Person
+uk004006,Country of birth: Africa,uk004,Country of birth,Person
+uk004007,Country of birth: Middle East and Asia,uk004,Country of birth,Person
+uk004008,Country of birth: The Americas and the Caribbean,uk004,Country of birth,Person
+uk004009,Country of birth: Antarctica and Oceania (including Australasia) and Other,uk004,Country of birth,Person
+uk007a001,Age: Total,uk007a,Age,Person
+uk007a002,Age: Aged 4 years and under,uk007a,Age,Person
+uk007a003,Age: Aged 5 to 9 years,uk007a,Age,Person
+uk007a004,Age: Aged 10 to 14 years,uk007a,Age,Person
+uk007a005,Age: Aged 15 to 19 years,uk007a,Age,Person
+uk007a006,Age: Aged 20 to 24 years,uk007a,Age,Person
+uk007a007,Age: Aged 25 to 29 years,uk007a,Age,Person
+uk007a008,Age: Aged 30 to 34 years,uk007a,Age,Person
+uk007a009,Age: Aged 35 to 39 years,uk007a,Age,Person
+uk007a010,Age: Aged 40 to 44 years,uk007a,Age,Person
+uk007a011,Age: Aged 45 to 49 years,uk007a,Age,Person
+uk007a012,Age: Aged 50 to 54 years,uk007a,Age,Person
+uk007a013,Age: Aged 55 to 59 years,uk007a,Age,Person
+uk007a014,Age: Aged 60 to 64 years,uk007a,Age,Person
+uk007a015,Age: Aged 65 to 69 years,uk007a,Age,Person
+uk007a016,Age: Aged 70 to 74 years,uk007a,Age,Person
+uk007a017,Age: Aged 75 to 79 years,uk007a,Age,Person
+uk007a018,Age: Aged 80 to 84 years,uk007a,Age,Person
+uk007a019,Age: Aged 85 years and over,uk007a,Age,Person
+uk008001,Sex: All persons,uk008,Sex,Person
+uk008002,Sex: Female,uk008,Sex,Person
+uk008003,Sex: Male,uk008,Sex,Person
+uk015001,Year of arrival in the UK: Total: All usual residents,uk015,Year of arrival in the UK,Person
+uk015002,Year of arrival in the UK: Born in the UK,uk015,Year of arrival in the UK,Person
+uk015003,Year of arrival in the UK: Arrived before 1951,uk015,Year of arrival in the UK,Person
+uk015004,Year of arrival in the UK: Arrived 1951 to 1960,uk015,Year of arrival in the UK,Person
+uk015005,Year of arrival in the UK: Arrived 1961 to 1970,uk015,Year of arrival in the UK,Person
+uk015006,Year of arrival in the UK: Arrived 1971 to 1980,uk015,Year of arrival in the UK,Person
+uk015007,Year of arrival in the UK: Arrived 1981 to 1990,uk015,Year of arrival in the UK,Person
+uk015008,Year of arrival in the UK: Arrived 1991 to 2000,uk015,Year of arrival in the UK,Person
+uk015009,Year of arrival in the UK: Arrived 2001 to 2010,uk015,Year of arrival in the UK,Person
+uk015010,Year of arrival in the UK: Arrived 2011 to 2013,uk015,Year of arrival in the UK,Person
+uk015011,Year of arrival in the UK: Arrived 2014 to 2016,uk015,Year of arrival in the UK,Person
+uk015012,Year of arrival in the UK: Arrived 2017 to 2019,uk015,Year of arrival in the UK,Person
+uk015013,Year of arrival in the UK: Arrived 2020 to 2021,uk015,Year of arrival in the UK,Person
+uk017001,Household size: Total: All household spaces,uk017,Household size,Household
+uk017002,Household size: 1 person in household,uk017,Household size,Household
+uk017003,Household size: 2 people in household,uk017,Household size,Household
+uk017004,Household size: 3 people in household,uk017,Household size,Household
+uk017005,Household size: 4 people in household,uk017,Household size,Household
+uk017006,Household size: 5 or more people in household,uk017,Household size,Household
+uk021001,Ethnic group: Total: All usual residents,uk021,Ethnic group,Person
+uk021002,Ethnic group: Asian,uk021,Ethnic group,Person
+uk021003,Ethnic group: Asian: Bangladeshi,uk021,Ethnic group,Person
+uk021004,Ethnic group: Asian: Chinese,uk021,Ethnic group,Person
+uk021005,Ethnic group: Asian: Indian,uk021,Ethnic group,Person
+uk021006,Ethnic group: Asian: Pakistani,uk021,Ethnic group,Person
+uk021007,Ethnic group: Asian: Other Asian,uk021,Ethnic group,Person
+uk021008,"Ethnic group: Black, Caribbean or African",uk021,Ethnic group,Person
+uk021009,Ethnic group: Mixed or Multiple ethnic groups,uk021,Ethnic group,Person
+uk021010,Ethnic group: White,uk021,Ethnic group,Person
+uk021011,Ethnic group: Other ethnic group,uk021,Ethnic group,Person
+uk021012,Ethnic group: Other ethnic group: Arab,uk021,Ethnic group,Person
+uk021013,Ethnic group: Other ethnic group: Any other ethnic group,uk021,Ethnic group,Person
+uk023001,Multiple ethnic groups in household: Total: All households,uk023,Multiple ethnic groups in household,Household
+uk023002,Multiple ethnic groups in household: One-person household,uk023,Multiple ethnic groups in household,Household
+uk023003,Multiple ethnic groups in household: All household members have the same ethnic group,uk023,Multiple ethnic groups in household,Household
+uk023004,Multiple ethnic groups in household: Ethnic groups differ between generations but not within partnerships,uk023,Multiple ethnic groups in household,Household
+uk023005,Multiple ethnic groups in household: Ethnic groups differ within partnerships,uk023,Multiple ethnic groups in household,Household
+uk023006,Multiple ethnic groups in household: Any other combination of multiple ethnic identities,uk023,Multiple ethnic groups in household,Household
+uk029001,Proficiency in English language: Total: All usual residents aged 3 years and over,uk029,Proficiency in English language,Person
+uk029002,Proficiency in English language: Speaks English very well or well,uk029,Proficiency in English language,Person
+uk029003,Proficiency in English language: Cannot speak English well or at all,uk029,Proficiency in English language,Person
+uk030001,Religion: Total: All usual residents,uk030,Religion,Person
+uk030002,Religion: No religion,uk030,Religion,Person
+uk030003,Religion: Christian,uk030,Religion,Person
+uk030004,Religion: Hindu,uk030,Religion,Person
+uk030005,Religion: Muslim,uk030,Religion,Person
+uk030006,Religion: Other religion (NI 6 categories defintion),uk030,Religion,Person
+uk030007,Religion: Not answered,uk030,Religion,Person
+uk037001,General health: Total: All usual residents,uk037,General health,Person
+uk037002,General health: Very good health,uk037,General health,Person
+uk037003,General health: Good health,uk037,General health,Person
+uk037004,General health: Fair health,uk037,General health,Person
+uk037005,General health: Bad health,uk037,General health,Person
+uk037006,General health: Very bad health,uk037,General health,Person
+uk038001,Disability: Total: All usual residents,uk038,Disability,Person
+uk038002,Disability: Disabled under the Equality Act,uk038,Disability,Person
+uk038003,Disability: Disabled under the Equality Act: Day-to-day activities limited a lot,uk038,Disability,Person
+uk038004,Disability: Disabled under the Equality Act: Day-to-day activities limited a little,uk038,Disability,Person
+uk038005,Disability: Not disabled under the Equality Act,uk038,Disability,Person
+uk039001,Provision of unpaid care: Total: All usual residents aged 5 and over,uk039,Provision of unpaid care,Person
+uk039002,Provision of unpaid care: Provides no unpaid care,uk039,Provision of unpaid care,Person
+uk039003,Provision of unpaid care: Provides 19 hours or less unpaid care a week,uk039,Provision of unpaid care,Person
+uk039004,Provision of unpaid care: Provides 20 to 34 hours unpaid care a week,uk039,Provision of unpaid care,Person
+uk039005,Provision of unpaid care: Provides 35 to 49 hours unpaid care a week,uk039,Provision of unpaid care,Person
+uk039006,Provision of unpaid care: Provides 50 or more hours unpaid care a week,uk039,Provision of unpaid care,Person
+uk044001,Accommodation type: Total: All households,uk044,Accommodation type,Household
+uk044002,Accommodation type: Detached,uk044,Accommodation type,Household
+uk044003,Accommodation type: Semi-detached,uk044,Accommodation type,Household
+uk044004,Accommodation type: Terraced,uk044,Accommodation type,Household
+uk044005,Accommodation type: In a purpose-built block of flats or tenement,uk044,Accommodation type,Household
+uk044006,"Accommodation type: Part of a converted or shared house, including bedsits",uk044,Accommodation type,Household
+uk044007,"Accommodation type: In a commercial building, for example, in an office building, hotel or over a shop",uk044,Accommodation type,Household
+uk044008,Accommodation type: A caravan or other mobile or temporary structure,uk044,Accommodation type,Household
+uk045001,Number of cars or vans: Total: All households,uk045,Number of cars or vans,Household
+uk045002,Number of cars or vans: No cars or vans in household,uk045,Number of cars or vans,Household
+uk045003,Number of cars or vans: 1 car or van in household,uk045,Number of cars or vans,Household
+uk045004,Number of cars or vans: 2 cars or vans in household,uk045,Number of cars or vans,Household
+uk045005,Number of cars or vans: 3 or more cars or vans in household,uk045,Number of cars or vans,Household
+uk046001,Type of central heating in household: Total: All households,uk046,Type of central heating in household,Household
+uk046002,Type of central heating in household: No central heating,uk046,Type of central heating in household,Household
+uk046003,Type of central heating in household: Mains gas only,uk046,Type of central heating in household,Household
+uk046004,Type of central heating in household: Tank or bottled gas only,uk046,Type of central heating in household,Household
+uk046005,Type of central heating in household: Electric only,uk046,Type of central heating in household,Household
+uk046006,Type of central heating in household: Oil only,uk046,Type of central heating in household,Household
+uk046007,Type of central heating in household: Wood only,uk046,Type of central heating in household,Household
+uk046008,Type of central heating in household: Solid fuel only,uk046,Type of central heating in household,Household
+uk046009,Type of central heating in household: Renewable energy only,uk046,Type of central heating in household,Household
+uk046010,Type of central heating in household: Other central heating only,uk046,Type of central heating in household,Household
+uk046011,Type of central heating in household: Two or more types of central heating,uk046,Type of central heating in household,Household
+uk054001,Tenure of household: Total: All households,uk054,Tenure of household,Household
+uk054002,Tenure of household: Owned (Including Shared Ownership),uk054,Tenure of household,Household
+uk054003,Tenure of household: Owned: Owns outright,uk054,Tenure of household,Household
+uk054004,"Tenure of household: Owned: Owns with a mortgage, loan or shared ownership",uk054,Tenure of household,Household
+uk054005,Tenure of household: Social rented,uk054,Tenure of household,Household
+uk054006,Tenure of household: Private rented,uk054,Tenure of household,Household
+uk054007,Tenure of household: Private rented: Private landlord or letting agency,uk054,Tenure of household,Household
+uk054008,Tenure of household: Private rented: Other private rented,uk054,Tenure of household,Household
+uk054009,Tenure of household: Lives rent free,uk054,Tenure of household,Household
+uk059001,Hours worked: Total: All usual residents aged 16 years and over in employment the week before the census,uk059,Hours worked,Person
+uk059002,Hours worked: Part-time,uk059,Hours worked,Person
+uk059003,Hours worked: Part-time: 15 hours or less worked,uk059,Hours worked,Person
+uk059004,Hours worked: Part-time: 16 to 30 hours worked,uk059,Hours worked,Person
+uk059005,Hours worked: Full-time,uk059,Hours worked,Person
+uk059006,Hours worked: Full-time: 31 to 48 hours worked,uk059,Hours worked,Person
+uk059007,Hours worked: Full-time: 49 or more hours worked,uk059,Hours worked,Person
+uk061001,Method of travel to workplace: Total: All usual residents aged 16 years and over in employment the week before the census,uk061,Method of travel to workplace,Person
+uk061002,Method of travel to workplace: Work mainly at or from home,uk061,Method of travel to workplace,Person
+uk061003,"Method of travel to workplace: Underground, metro, light rail, tram",uk061,Method of travel to workplace,Person
+uk061004,Method of travel to workplace: Train,uk061,Method of travel to workplace,Person
+uk061005,"Method of travel to workplace: Bus, minibus or coach",uk061,Method of travel to workplace,Person
+uk061006,Method of travel to workplace: Taxi,uk061,Method of travel to workplace,Person
+uk061007,"Method of travel to workplace: Motorcycle, scooter or moped",uk061,Method of travel to workplace,Person
+uk061008,Method of travel to workplace: Car or van,uk061,Method of travel to workplace,Person
+uk061009,Method of travel to workplace: Bicycle,uk061,Method of travel to workplace,Person
+uk061010,Method of travel to workplace: On foot,uk061,Method of travel to workplace,Person
+uk061011,Method of travel to workplace: Other method of travel to work,uk061,Method of travel to workplace,Person
+uk062001,National Statistics Socio-economic Classification (NS-SEC): Total: All usual residents aged 16 years and over,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062002,"National Statistics Socio-economic Classification (NS-SEC): L1, L2 and L3 Higher managerial, administrative and professional occupations",uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062003,"National Statistics Socio-economic Classification (NS-SEC): L4, L5 and L6 Lower managerial, administrative and professional occupations",uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062004,National Statistics Socio-economic Classification (NS-SEC): L7 Intermediate occupations,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062005,National Statistics Socio-economic Classification (NS-SEC): L8 and L9 Small employers and own account workers,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062006,National Statistics Socio-economic Classification (NS-SEC): L10 and L11 Lower supervisory and technical occupations,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062007,National Statistics Socio-economic Classification (NS-SEC): L12 Semi-routine occupations,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062008,National Statistics Socio-economic Classification (NS-SEC): L13 Routine occupations,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062009,National Statistics Socio-economic Classification (NS-SEC): L14.1 and L14.2 Never worked and long-term unemployed,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk062010,National Statistics Socio-economic Classification (NS-SEC): L15 Full-time students,uk062,National Statistics Socio-economic Classification (NS-SEC),Person
+uk063001,Occupation (current): Total: All usual residents aged 16 years and over in employment the week before the census,uk063,Occupation (current),Person
+uk063002,"Occupation (current): 1. Managers, directors and senior officials",uk063,Occupation (current),Person
+uk063003,Occupation (current): 2. Professional occupations,uk063,Occupation (current),Person
+uk063004,Occupation (current): 3. Associate professional and technical occupations,uk063,Occupation (current),Person
+uk063005,Occupation (current): 4. Administrative and secretarial occupations,uk063,Occupation (current),Person
+uk063006,Occupation (current): 5. Skilled trades occupations,uk063,Occupation (current),Person
+uk063007,"Occupation (current): 6. Caring, leisure and other service occupations",uk063,Occupation (current),Person
+uk063008,Occupation (current): 7. Sales and customer service occupations,uk063,Occupation (current),Person
+uk063009,"Occupation (current): 8. Process, plant and machine operatives",uk063,Occupation (current),Person
+uk063010,Occupation (current): 9. Elementary occupations,uk063,Occupation (current),Person
+uk066001,Economic activity status: Total: All usual residents aged 16 years and over,uk066,Economic activity status,Person
+uk066002,Economic activity status: Economically active (excluding full-time students),uk066,Economic activity status,Person
+uk066003,Economic activity status: Economically active (excluding full-time students):In employment,uk066,Economic activity status,Person
+uk066004,Economic activity status: Economically active (excluding full-time students):In employment:Employee,uk066,Economic activity status,Person
+uk066005,Economic activity status: Economically active (excluding full-time students):In employment:Self-employed with employees,uk066,Economic activity status,Person
+uk066006,Economic activity status: Economically active (excluding full-time students):In employment:Self-employed without employees,uk066,Economic activity status,Person
+uk066007,Economic activity status: Economically active (excluding full-time students): Unemployed,uk066,Economic activity status,Person
+uk066008,Economic activity status: Economically active and a full-time student,uk066,Economic activity status,Person
+uk066009,Economic activity status: Economically active and a full-time student:In employment,uk066,Economic activity status,Person
+uk066010,Economic activity status: Economically active and a full-time student:In employment:Employee,uk066,Economic activity status,Person
+uk066011,Economic activity status: Economically active and a full-time student:In employment:Self-employed with employees,uk066,Economic activity status,Person
+uk066012,Economic activity status: Economically active and a full-time student:In employment:Self-employed without employees,uk066,Economic activity status,Person
+uk066013,Economic activity status: Economically active and a full-time student: Unemployed,uk066,Economic activity status,Person
+uk066014,Economic activity status: Economically inactive,uk066,Economic activity status,Person
+uk066015,Economic activity status: Economically inactive: Retired,uk066,Economic activity status,Person
+uk066016,Economic activity status: Economically inactive: Student,uk066,Economic activity status,Person
+uk066017,Economic activity status: Economically inactive: Looking after home or family,uk066,Economic activity status,Person
+uk066018,Economic activity status: Economically inactive: Long-term sick or disabled,uk066,Economic activity status,Person
+uk066019,Economic activity status: Economically inactive: Other,uk066,Economic activity status,Person
+uk067001,Highest level of qualification: Total: All usual residents aged 16 years and over,uk067,Highest level of qualification,Person
+uk067002,Highest level of qualification: No qualifications,uk067,Highest level of qualification,Person
+uk067003,Highest level of qualification: Level 1-2 Qualifications,uk067,Highest level of qualification,Person
+uk067004,Highest level of qualification: Apprenticeship,uk067,Highest level of qualification,Person
+uk067005,Highest level of qualification: Level 3 qualifications,uk067,Highest level of qualification,Person
+uk067006,Highest level of qualification: Level 4 qualifications and above,uk067,Highest level of qualification,Person

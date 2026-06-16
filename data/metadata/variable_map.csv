@@ -1,0 +1,40 @@
+table_code,source_col,source_cols,denominator_col,analytic_var,measure_type,notes
+uk021,uk021010,,uk021001,share_white,proportion,GeoDS metadata: Ethnic group White / Ethnic group Total All usual residents
+uk021,uk021002,,uk021001,share_asian,proportion,GeoDS metadata: Ethnic group Asian / Ethnic group Total All usual residents
+uk021,uk021005,,uk021001,share_indian,proportion,GeoDS metadata: Ethnic group Asian Indian / Ethnic group Total All usual residents
+uk021,uk021006,,uk021001,share_pakistani,proportion,GeoDS metadata: Ethnic group Asian Pakistani / Ethnic group Total All usual residents
+uk021,uk021003,,uk021001,share_bangladeshi,proportion,GeoDS metadata: Ethnic group Asian Bangladeshi / Ethnic group Total All usual residents
+uk021,uk021008,,uk021001,share_black,proportion,GeoDS metadata: Ethnic group Black Caribbean or African / Ethnic group Total All usual residents
+uk021,uk021009,,uk021001,share_mixed,proportion,GeoDS metadata: Ethnic group Mixed or Multiple ethnic groups / Ethnic group Total All usual residents
+uk021,uk021011,,uk021001,share_other_ethnic,proportion,GeoDS metadata: Ethnic group Other ethnic group / Ethnic group Total All usual residents
+uk004,uk004003,,uk004001,share_born_uk,proportion,GeoDS metadata: Country of birth Europe United Kingdom / Country of birth Total
+uk004,uk004006,,uk004001,share_born_africa,proportion,GeoDS metadata: Country of birth Africa / Country of birth Total
+uk004,uk004007,,uk004001,share_born_middle_east_asia,proportion,GeoDS metadata: Country of birth Middle East and Asia / Country of birth Total
+uk015,,uk015009;uk015010;uk015011;uk015012;uk015013,uk015001,share_arrived_2001_plus,proportion_sum,GeoDS metadata: Arrived 2001 to 2010 through Arrived 2020 to 2021 / Year of arrival Total All usual residents
+uk015,,uk015010;uk015011;uk015012;uk015013,uk015001,share_arrived_2011_plus,proportion_sum,GeoDS metadata: Arrived 2011 to 2013 through Arrived 2020 to 2021 / Year of arrival Total All usual residents
+uk029,uk029003,,uk029001,share_limited_english,proportion,GeoDS metadata: Cannot speak English well or at all / Proficiency in English language Total aged 3 years and over
+uk030,uk030002,,uk030001,share_no_religion,proportion,GeoDS metadata: Religion No religion / Religion Total All usual residents
+uk030,uk030003,,uk030001,share_christian,proportion,GeoDS metadata: Religion Christian / Religion Total All usual residents
+uk030,uk030004,,uk030001,share_hindu,proportion,GeoDS metadata: Religion Hindu / Religion Total All usual residents
+uk030,uk030005,,uk030001,share_muslim,proportion,GeoDS metadata: Religion Muslim / Religion Total All usual residents
+uk030,uk030006,,uk030001,share_other_religion,proportion,GeoDS metadata: Religion Other religion NI 6 categories definition / Religion Total All usual residents
+uk007a,,uk007a002;uk007a003;uk007a004;uk007a005,uk007a001,share_children_0_19,proportion_sum,GeoDS metadata: Age 0 to 19 years / Age Total
+uk007a,,uk007a006;uk007a007;uk007a008,uk007a001,share_young_adults_20_34,proportion_sum,GeoDS metadata: Age 20 to 34 years / Age Total
+uk007a,,uk007a015;uk007a016;uk007a017;uk007a018;uk007a019,uk007a001,share_older_65_plus,proportion_sum,GeoDS metadata: Age 65 years and over / Age Total
+uk003,uk003002,,uk003001,share_one_person_households,proportion,GeoDS metadata: Household composition One person household / Household composition Total
+uk003,uk003010,,uk003001,share_lone_parent_households,proportion,GeoDS metadata: Household composition Lone parent family / Household composition Total
+uk017,uk017006,,uk017001,share_large_households_5_plus,proportion,GeoDS metadata: Household size 5 or more people in household / Household size Total All household spaces
+uk023,,uk023004;uk023005;uk023006,uk023001,share_multi_ethnic_households,proportion_sum,GeoDS metadata: Multiple ethnic groups differ across generations within partnerships or other combinations / Multiple ethnic groups in household Total All households
+uk044,,uk044005;uk044006;uk044007,uk044001,share_flats_or_tenements,proportion_sum,GeoDS metadata: Accommodation type flats or tenements and related converted shared or commercial building categories / Accommodation type Total All households
+uk054,uk054005,,uk054001,share_social_rent,proportion,GeoDS metadata: Tenure Social rented / Tenure of household Total
+uk054,uk054006,,uk054001,share_private_rent,proportion,GeoDS metadata: Tenure Private rented / Tenure of household Total
+uk054,uk054002,,uk054001,share_owned,proportion,GeoDS metadata: Tenure Owned / Tenure of household Total
+uk045,uk045002,,uk045001,share_no_car,proportion,GeoDS metadata: Number of cars or vans No cars or vans in household / Number of cars or vans Total
+uk062,,uk062002;uk062003,uk062001,share_nssec_high,proportion_sum,GeoDS metadata: NS-SEC L1 to L3 / NS-SEC Total
+uk062,,uk062007;uk062008;uk062009,uk062001,share_nssec_low,proportion_sum,GeoDS metadata: NS-SEC L12 to L14.2 / NS-SEC Total
+uk066,,uk066007;uk066013,uk066001,share_unemployed,proportion_sum,GeoDS metadata: Economic activity unemployed excluding full-time students and unemployed full-time students / Economic activity status Total aged 16 years and over
+uk066,uk066014,,uk066001,share_inactive,proportion,GeoDS metadata: Economic activity Economically inactive / Economic activity status Total aged 16 years and over
+uk063,,uk063002;uk063003;uk063004,uk063001,share_professional_occupations,proportion_sum,GeoDS metadata: Occupation managers professional and associate professional groups / Occupation current Total aged 16 years and over in employment
+uk063,uk063010,,uk063001,share_elementary_occupations,proportion,GeoDS metadata: Occupation elementary occupations / Occupation current Total aged 16 years and over in employment
+uk067,uk067002,,uk067001,share_no_qualifications,proportion,GeoDS metadata: Highest level of qualification No qualifications / Highest level of qualification Total aged 16 years and over
+uk067,uk067006,,uk067001,share_level4_plus,proportion,GeoDS metadata: Highest level of qualification Level 4 qualifications and above / Highest level of qualification Total aged 16 years and over
